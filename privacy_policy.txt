@@ -1,0 +1,37 @@
+1. Information We Collect
+
+When you use our app, we may collect the following types of information:
+
+Personal Information: This includes your name, email address, and any other information you provide during account creation or while using our app.
+Device Information: We may collect details about your device, such as the device model and operating system.
+Usage Data: This includes information about how you use our app, such as which features you access and the time you spend using the app.
+2. How We Use Your Information
+
+We use the information we collect to:
+
+Provide and maintain the functionality of our app.
+Personalize your experience within our app.
+Analyze app usage for improvements.
+Send important notifications and updates.
+3. Sharing Your Information
+
+We do not sell your personal information. However, we may share your data with third parties for the following purposes:
+
+Analytics: To understand user behavior and improve the app's performance.
+Service Providers: To assist with app-related services.
+4. Your Rights
+
+You have the right to:
+
+Access your data.
+Correct inaccuracies in your data.
+Delete your data.
+You can manage your privacy settings within the app.
+
+5. Security
+
+We implement robust security measures, including encryption and access controls, to protect your data from unauthorized access and misuse.
+
+6. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any significant changes. Your continued use of the app after such modifications implies your consent.
